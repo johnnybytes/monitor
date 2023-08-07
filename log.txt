@@ -1,0 +1,24 @@
+SUCCESS: 2023-08-02 16:27:45
+SUCCESS: 2023-08-02 16:31:09
+SUCCESS: 2023-08-02 16:31:12
+SUCCESS: 2023-08-02 16:31:13
+SUCCESS: 2023-08-03 09:38:23
+SUCCESS: 2023-08-03 10:20:49
+SUCCESS! 
+Time: 2023-08-07 15:50:50 
+Server: infonet.nyp.org 
+Test-NetConnection Message: TestNetConnectionResult 
+SUCCESS! 
+Time: 2023-08-07 15:51:00 
+Server: infonet.nyp.org 
+Test-NetConnection Message: TestNetConnectionResult 
+SUCCESS! 
+Time: 2023-08-07 15:52:02 
+Server: infonet.nyp.org 
+Test-NetConnection Message: TestNetConnectionResult 
+------------------------------
+SUCCESS! 
+Time: 2023-08-07 15:52:07 
+Server: infonet.nyp.org 
+Test-NetConnection Message: TestNetConnectionResult 
+------------------------------
